@@ -1,0 +1,16 @@
+2018/12/9 - 11:43:45 - Received server response (0.21875ms elapsed).
+Query: bob
+Size of response is 151 bytes.
+
+2018/12/9 - 11:44:4 - Received server response (0.169189453125ms elapsed).
+Query: stevie
+Size of response is 153 bytes.
+
+2018/12/9 - 16:47:40 - Received server response (0.0ms elapsed).
+Query: Stevie
+Size of response is 137 bytes.
+
+2018/12/9 - 16:47:55 - Received server response (0.9765625ms elapsed).
+Query: Paul
+Size of response is 166 bytes.
+
