@@ -1,3 +1,7 @@
+# Networks Coursework
+In this coursework, we create a database that can be queried over a network. Specifically, a user may search the name of an artist, and a list of songs by all artists with a matching name are returned.
+
+## Instructions
 Before using this program, ensure that:
 - 100worst.txt
 - client.py
